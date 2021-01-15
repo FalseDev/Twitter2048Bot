@@ -1,0 +1,2 @@
+fastapi==0.63.0
+peony-twitter==1.1.7
